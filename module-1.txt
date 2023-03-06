@@ -52,3 +52,11 @@ Key aspect of analytical thinking
 3. problem oriented thinking
 4. correlation
 5. big picture and detail oriented thinking
+
+data life cycle:
+1. Planning
+2. Capture
+3. Managing
+4. Analyze
+5. Archieve
+6. Destroy
