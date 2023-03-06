@@ -1,1 +1,54 @@
+What is data? 
+Data is a collection of fact
 
+What is data analysis?
+Data analysis is a collection, transformation, organization of data in order to draw conclusion, make prediction, and driven to decision making
+
+What is data analyst?
+Data analyst is a person who collect, transform, and organizate data in order to make a decision making
+
+There are 7 steps of data analysis
+1. Ask
+2. Prepare
+3. Process
+4. Analisys
+5. Share
+6. Act
+
+What is data ecosystem?
+Data ecosystem are made up of various element that interact, analyse, store, manage, produce, and share data
+
+What is cloud?
+Cloud is a place that we store the data secara online
+
+What is the difference of data scientist and data analysis
+Data analysis answer the existing question with data, data scientist make a new question with data
+
+what is data analytics?
+The science of data
+
+What is data driven decision makin?
+using fact to guide the bussiness need
+
+What is subject matter expert?
+Orang yang expert pada subjek data yang sedang kita analisis
+
+What is analitical skill?
+Analytical skill is a skill to using data to make decision
+
+Key of analytical skill
+1. Curiosity
+2. Understanding context
+3. Technical mindset
+4. Data design
+5. Data strategy
+
+what is anallytical thinking?
+Analytical thinking is a way of thinking that identifying and defining problem and solve it using data in an organize step
+
+Key aspect of analytical thinking
+1. Visualization
+2. strategy
+3. problem oriented thinking
+4. correlation
+5. big picture and detail oriented thinking
