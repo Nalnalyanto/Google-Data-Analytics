@@ -1,0 +1,40 @@
+===================== MODUL 1 =========================
+Most commonly problem in data analytics
+1. Making prediction 
+   Ex : A company that wants to know the best adcertising method to bring in new customers
+2. Categorize things
+   Ex :  a company's goal to improve customer satisfaction. Analysts might classify 
+         customer service calls based on certain keywords or scores. This could help
+         identify top-performing customer service representatives or help correlate 
+         certain actions taken with higher customer satisfaction scores.
+3. Spotting something unusual
+   Ex : A company that sells smart watches that help people monitor their health would
+        be interested in designing their software to spot something unusual. Analysts 
+        who have analyzed aggregated health data can help product developers determine 
+        the right algorithms to spot and set off alarms when certain data doesn't trend normally.
+4. Identifying themes 
+   Ex : categorizing things involves assigning items to categories; identifying themes takes those
+        categories a step further by grouping them into broader themes.
+5. dicovering connections
+   Ex : A third-party logistics company working with another company to get shipments delivered to
+        customers on time is a problem requiring analysts to discover connections. By analyzing the
+        wait times at shipping hubs, analysts can determine the appropriate schedule changes
+        to increase the number of on-time deliveries. 
+6. Finding patterns
+   Ex : Minimizing downtime caused by machine failure is an example of a problem requiring analysts
+        to find patterns in data. For example, by analyzing maintenance data, they might discover
+        that most failures happen if regular maintenance is delayed by more than a 15-day window. 
+        
+----- CRAFT EFFECTIVE QUESTION -----
+Effective question always consider
+1. Specific
+2. Measurable
+3. Action oriented
+4. Relevant
+5. Time bound
+
+=========================== MODUL 2 ==========================
+Data-inspired decision makin explore different data source to find out what they have in common
+
+Data quantitativ adalah data yang bisa diukur dengan angka
+Data qualitatif adalah data yang tidka bisa diukur dengan angka
