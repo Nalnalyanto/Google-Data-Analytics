@@ -1,0 +1,3 @@
+==================================== MODUL 1 =======================================
+
+Data integrity is the accuracy, completeness, consistency, and trustworthiness of data throughout its lifecycle.
