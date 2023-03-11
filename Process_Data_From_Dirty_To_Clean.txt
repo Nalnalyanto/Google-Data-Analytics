@@ -1,3 +1,29 @@
 ==================================== MODUL 1 =======================================
 
 Data integrity is the accuracy, completeness, consistency, and trustworthiness of data throughout its lifecycle.
+
+Types of insufficient data:
+1. Data only from one source
+2. Data that keeps updating
+3. Data outdated
+4. Geographical-data based
+
+How to solve this:
+1. identify trends with the available data
+2. wait to more data if waktu cukup
+3. talk with stakeholder and adjust objective
+4. Look for new dataset
+
+Menentukan sample size
+1. Tidak boleh kurang dari 30 data
+2. confidence level yang digunakan biasanya 95%
+
+Statistical power adalah peluang terdapatnya meaningful result saat test
+Minimum statistical power agar dikatakan statistical significant adalah 0,8 
+
+Jika suatu test atau study dikatakan statistical significant, maka hasilnya real dan tidak error karna disebabkan oleh sesuatu yang random
+
+================================= MODUL 2 =========================================
+Dirty data is a data that is incorrect, incomplete, or inrelevant to the problem that we wanna solve
+Clean data is a data that is correct, complete, and relevant
+
