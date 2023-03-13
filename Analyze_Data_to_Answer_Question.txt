@@ -1,0 +1,9 @@
+============== MODUL 1 ===========
+Apa itu analisis?
+Suatu proses membuat data atau merangkai data menjadi suatu pattern yang menghasilkan insight
+
+4 phase of analysis
+1. Organize data
+2. Format and adjust data
+3. Get input from others
+4. Transform data
